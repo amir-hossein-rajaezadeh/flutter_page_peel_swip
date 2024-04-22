@@ -1,7 +1,9 @@
 # flutter_page_peel_swip
 
 
-The #swiping_animation in this project has been achieved without the use of any third-party packages or dart packages. Every aspect of the animation has been created manually. I welcome any contributions and encourage you to fork the project.
+The #swiping_animation in this project has been achieved without using any third-party or dart packages. Every aspect of the animation has been created manually. I welcome any contributions and encourage you to fork the project.
+
+Star it if you find it interesting ⭐️
 
 
 
