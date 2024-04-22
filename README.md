@@ -1,16 +1,13 @@
 # flutter_page_peel_swip
 
-A new Flutter project.
 
-## Getting Started
+The #swiping-animation in this project has been achieved without the use of any third-party packages or dart packages. Every aspect of the animation has been created manually. I welcome any contributions and encourage you to fork the project.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Images:  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![0](docs/screenshots/img0.png) 
+![1](docs/screenshots/img1.png) 
+![2](docs/screenshots/img2.png) 
+![3](docs/screenshots/img3.png) 

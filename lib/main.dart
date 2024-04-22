@@ -257,7 +257,7 @@ Widget _buildCardWidget(BuildContext context, int index, int selectedIndex,
                     child: Transform.flip(
                       flipX: true,
                       child: Opacity(
-                        opacity: 0.7,
+                        opacity: 0.85,
                         child: ClipRRect(
                           borderRadius: const BorderRadius.only(
                             bottomRight: Radius.circular(16),
